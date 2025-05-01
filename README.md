@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/e069d83b-dda7-40f6-8b8d-2f73b4bb1662
+
 <h1>
   <img src="https://www.pngall.com/wp-content/uploads/2017/04/Indian-Premier-League-Logo-2017.png" alt="Logo" style="height: 60px; vertical-align: middle; margin-right: 60px;">
   IPL Winner Predictor
