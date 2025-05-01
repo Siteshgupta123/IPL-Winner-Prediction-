@@ -1,11 +1,11 @@
-
-
-https://github.com/user-attachments/assets/e069d83b-dda7-40f6-8b8d-2f73b4bb1662
-
 <h1>
   <img src="https://www.pngall.com/wp-content/uploads/2017/04/Indian-Premier-League-Logo-2017.png" alt="Logo" style="height: 60px; vertical-align: middle; margin-right: 60px;">
   IPL Winner Predictor
 </h1>
+
+
+https://github.com/user-attachments/assets/ab487d75-eb9e-499c-bc4d-d61c5dba77f8
+
 
 This project is a **Machine Learning-powered web application** that predicts the winning team in an IPL match based on various inputs such as teams, venue, toss, and target score. 
 Built by [Sitesh Gupta](https://github.com/Siteshgupta123).
@@ -62,6 +62,9 @@ http://127.0.0.1:5000/
 │   └── index.html         # Front-end HTML file
 ```
 ![Screenshot_2025-04-28-22-59-51-79_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/user-attachments/assets/2c4e8f0c-0d16-49b1-ad9f-781b7ba89ba2)
+
+
+
 
 # Contribution:
 Feel free to fork the project and submit a pull request!
