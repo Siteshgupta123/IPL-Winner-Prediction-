@@ -3,6 +3,8 @@
   IPL Winner Predictor
 </h1>
 
+## 📌 Project Overview:
+![Screenshot_2025-04-28-22-59-51-79_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/user-attachments/assets/2c4e8f0c-0d16-49b1-ad9f-781b7ba89ba2)
 
 https://github.com/user-attachments/assets/ab487d75-eb9e-499c-bc4d-d61c5dba77f8
 
@@ -61,11 +63,21 @@ http://127.0.0.1:5000/
 ├── templates/
 │   └── index.html         # Front-end HTML file
 ```
-![Screenshot_2025-04-28-22-59-51-79_40deb401b9ffe8e1df2f1cc5ba480b12](https://github.com/user-attachments/assets/2c4e8f0c-0d16-49b1-ad9f-781b7ba89ba2)
+----------------------------------
 
+## Contributing:
+1.Fork the project.
+2.Create your feature branch.
+```
+git checkout -b feature/AmazingFeature
+```
+3.Commit changes.
+```
+git commit -m 'Add amazing feature'
+```
+4.Push to branch.
+```
+git push origin feature/AmazingFeature
+```
+5.Open a Pull Request
 
-
-
-# Contribution:
-Feel free to fork the project and submit a pull request!
-For major changes, please open an issue first to discuss what you would like to change.
